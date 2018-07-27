@@ -1,18 +1,17 @@
 # Description:
-#   Hubot responds any greeting message politely. Phrases from:
-#
+#   Hubot responds any greeting message politely.
 #
 # Dependencies:
 #   None
 #
 # Configuration:
-#   None
+#   Place into scripts folder within Hubot directory.
 #
 # Commands:
 #   None
 #
 # Author:
-#   github.com/paul.halliwell
+#   github.com/paulmhalliwell
 #
 
 response = [
